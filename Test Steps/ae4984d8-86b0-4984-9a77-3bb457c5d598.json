@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Login at https://katalon-demo-cura.herokuapp.com/profile.php#login --> navigate to Page_home",
+        "step 2: Navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_btn_make_appointment --> navigate to Page_profile_php#login",
+        "step 4: Add visual checkpoint at Page_profile_php#login"
+    ]
+}
